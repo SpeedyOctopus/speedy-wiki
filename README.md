@@ -1,2 +1,2 @@
-# speedy-wiki
-Main Wiki of Speedy Octopus
+# Speedy Wiki
+Here be dragons...
